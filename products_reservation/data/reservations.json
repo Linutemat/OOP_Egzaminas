@@ -1,0 +1,52 @@
+{
+    "0": {
+        "email": "e@gmail.com",
+        "product_id": 2,
+        "quantity": "2"
+    },
+    "1": {
+        "email": "e@gmail.com",
+        "product_id": 1,
+        "quantity": "10"
+    },
+    "2": {
+        "email": "e@gmail.com",
+        "product_id": 2,
+        "quantity": "10"
+    },
+    "3": {
+        "email": "e@gmail.com",
+        "product_id": 3,
+        "quantity": "10"
+    },
+    "4": {
+        "email": "e@gmail.com",
+        "product_id": 1,
+        "quantity": "10"
+    },
+    "5": {
+        "email": "e@gmail.com",
+        "product_id": 2,
+        "quantity": "10"
+    },
+    "6": {
+        "email": "e@gmail.com",
+        "product_id": 3,
+        "quantity": "10"
+    },
+    "7": {
+        "email": "e@gmail.com",
+        "product_id": 1,
+        "quantity": "1"
+    },
+    "8": {
+        "email": "e@gmail.com",
+        "product_id": 2,
+        "quantity": "1"
+    },
+    "9": {
+        "email": "e@gmail.com",
+        "product_id": 3,
+        "quantity": "1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "lina/products_reservation",
+    "autoload": {
+        "psr-4": {
+            "Lina\\ProductsReservation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lina",
+            "email": "linutematulaitiene@gmail.com"
+        }
+    ],
+    "require": {}
+}
